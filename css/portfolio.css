@@ -57,6 +57,8 @@ a{
     position: relative;
     display: flex;
     flex-wrap: wrap;
+
+    
 }
 
 
@@ -129,6 +131,7 @@ a{
     
  .product{
      position: relative;
+     overflow: hidden;
  }   
 
  .product::before{

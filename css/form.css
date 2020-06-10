@@ -1,0 +1,23 @@
+:root {
+    --accent-color: #2196F3;
+    --basic-color: #212121;
+    --text-color: #757575;
+    --contacts-footer-color: rgba(255, 255, 255, 0.6);
+    --primary-color-white: #FFFFFF;
+    --bcg-color: #F5F4FA;
+    --footer-copiright: rgba(255, 255, 255, 0.4);
+}
+
+b{
+    font-weight: bold;
+font-size: 20px;
+line-height: 1.15;
+text-align: center;
+letter-spacing: 0.03em;
+
+    color:var(--basic-color);
+}
+
+.button .form{
+    background-color: var(--accent-color);
+}
